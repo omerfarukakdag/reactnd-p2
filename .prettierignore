@@ -1,0 +1,8 @@
+build
+dist
+node_modules
+coverage
+.github
+# package.json
+package-lock.json
+yarn.lock
